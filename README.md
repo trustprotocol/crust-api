@@ -1,4 +1,4 @@
-# Crust API
+# Trust API
 
 > Crust API is a bridge connector bewteen chain and other offchain services, you'd better not run it seperately.
 
